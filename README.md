@@ -12,3 +12,5 @@
 mkcest ceo ㅤㅤㅤㅤㅤㅤspam follow,
 
 block if unwanted
+
+![](https://komarev.com/ghpvc/?username=mkcest&color=628CBD&style=plastic&label=🗝)
